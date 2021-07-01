@@ -1,0 +1,337 @@
+Brand,ModelName,ProcessorBrand,ProcessorName,ProcessorGeneration,OS,RAM,HDD,SSD,StorageDrive,GraphicCardBrand,GraphicCardSize,Ratings,Price,Discount(%)
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+HP,HP Pentium Quad Core - (8 GB/256 GB SSD/Windows 10 Home) 14s- DQ3018TU Thin and Light Laptop,Intel,Pentium,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.4,31490,8.0
+ASUS,ASUS VivoBook 15 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) X515JA-EJ322TS Thin and Light Lapt...,Intel,Core i3,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.1,34910,0.0
+HP,HP 14s Ryzen 3 Quad Core 4300U - (8 GB/512 GB SSD/Windows 10 Home) 14s-fr0016AU Thin and Light Laptop,AMD,Ryzen 3Core 4300U,Ryzen 3,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,39490,11.0
+Lenovo,Lenovo Ideapad S145 Core i3 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i3,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,35990,15.0
+acer,acer Aspire 7 Ryzen 5 Quad Core 3550H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce ...,AMD,Ryzen 5Core 3550H,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.4,49990,31.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+acer,acer Aspire 7 Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650...,Intel,Core i5,9th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.4,53990,36.0
+HP,HP Pavilion Gaming Ryzen 5 Quad Core 3550H - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeFor...,AMD,Ryzen 5Core 3550H,Ryzen 5,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,4.0,4.2,50990,9.0
+APPLE,APPLE MacBook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A,Apple,M1,M1,Mac OS,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.7,92900,0.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+HP,HP 15s Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/Windows 10 Home) 15s-GR0011AU Thin and Light Laptop,AMD,Ryzen 3Core 3250U,Ryzen 3,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.2,36490,8.0
+DELL,DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10) INSPIRON 3501 Notebook,Intel,Core i5,11th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.3,56033,7.0
+HP,HP 14s Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14s- DY2501TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.6,40990,10.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+HP,HP 15s Ryzen 3 Dual Core 3250U - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 15s-GR0012AU Laptop,AMD,Ryzen 3Core 3250U,Ryzen 3,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.4,41990,5.0
+DELL,DELL Inspiron Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10) Inspiron 3501 Notebook,Intel,Core i3,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,5.0,40707,0.0
+ASUS,ASUS Ryzen 3 Dual Core - (4 GB/256 GB SSD/Windows 10 Home) M515DA-BQ312TS Thin and Light Laptop,AMD,Ryzen 3,Ryzen 3,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,4.4,32990,13.0
+ASUS,ASUS Pentium Quad Core - (4 GB/1 TB HDD/Windows 10 Home) X543MA-GQ1020T Laptop,Intel,Pentium,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.8,24990,14.0
+ASUS,ASUS Celeron Dual Core - (4 GB/1 TB HDD/Windows 10 Home) X543MA-GQ1015T Laptop,Intel,Celeron,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,23490,3.0
+Mi,Mi Notebook 14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) JYU4299IN Thin and Light Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.3,46999,4.0
+Lenovo,Lenovo IdeaPad 3 Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10 Home) 14ADA05 Laptop,AMD,Ryzen 5Core 3500U,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,3.9,42990,23.0
+Lenovo,Lenovo Ideapad S145 Ryzen 3 Dual Core 3200U - (4 GB/1 TB HDD/Windows 10 Home) S145-15API Thin and Ligh...,AMD,Ryzen 3Core 3200U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,28990,22.0
+ASUS,ASUS VivoBook 14 Ryzen 5 Hexa Core 4500U - (8 GB/512 GB SSD/Windows 10 Home) M413IA-EK582T Thin and Li...,AMD,Ryzen 5Core 4500U,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,52990,13.0
+DELL,DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) �INSP 5406 2 in 1 2 in 1 Laptop,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.3,68240,8.0
+ASUS,ASUS VivoBook 15 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) X515JA-EJ512TS Thin and...,Intel,Core i5,10th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.3,53990,0.0
+HP,HP 14s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s- DQ2535TU Thin and Light Laptop,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.2,54990,5.0
+Lenovo,Lenovo Legion Y540 Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) Y540-15IRH-PG0 Th...,Intel,Core i5,9th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,4.0,4.7,57990,31.0
+Lenovo,Lenovo Legion Y540 Core i5 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA Ge...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,4.5,60990,29.0
+HP,HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15s-FR2006TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,45290,7.0
+MSI,MSI GF63 Thin Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650...,Intel,Core i5,9th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.4,56990,21.0
+HP,HP 15s Pentium Gold - (4 GB/1 TB HDD/Windows 10 Home) 15s-du1052TU Thin and Light Laptop,Intel,Pentium,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,27990,5.0
+acer,acer Nitro 5 Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA ...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,4.4,64990,17.0
+APPLE,APPLE MacBook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN93HN/A,Apple,M1,M1,Mac OS,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.7,92900,0.0
+ASUS,ASUS Core i3 11th Gen - (4 GB/512 GB SSD/Windows 10 Home) Indie Black Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,4,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,41990,20.0
+HP,HP Pavilion Gaming Ryzen 5 Quad Core 3550H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeF...,AMD,Ryzen 5Core 3550H,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.5,59990,0.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+Lenovo,Lenovo IdeaPad 3 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15IIL05 Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.3,43990,31.0
+HP,HP 15s Athlon Dual Core - (4 GB/1 TB HDD/Windows 10 Home) 15s-GY0001AU Thin and Light Laptop,AMD,Athlon,Ryzen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,4.1,27490,3.0
+HP,HP 15s Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-dy3001TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.1,41490,9.0
+APPLE,APPLE MacBook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGND3HN/A,Apple,M1,M1,Mac OS,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.7,92900,0.0
+MSI,MSI Bravo 15 Ryzen 5 Hexa Core 4600H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/AMD Radeon RX 5...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,16,0,512 GB,512 GB SSD,AMD Radeon RX 5...,4.0,4.5,72990,13.0
+MSI,MSI GP65 Leopard Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA Ge...,Intel,Core i7,10th Gen,Windows 10,16,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,6.0,4.7,99990,31.0
+HP,HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 13-bb0075TU Thin and Light Laptop,Intel,Core i5,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,65990,11.0
+Mi,Mi Notebook 14 Core i5 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) JYU4298IN Thin and Light Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.3,43999,5.0
+ASUS,ASUS Vivobook Gaming Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce G...,Intel,Core i5,9th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.5,58990,18.0
+Lenovo,Lenovo Legion Core i7 9th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics) Y540-15IRH-PG...,Intel,Core i7,9th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,4.0,4.2,69990,33.0
+ASUS,ASUS Vivobook Gaming Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce G...,Intel,Core i5,9th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.5,58990,18.0
+HP,HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 13-bb0075TU Thin and Light Laptop,Intel,Core i5,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,65990,11.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+APPLE,APPLE MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A,Intel,Core i5,5th Gen,Mac OS,8,0,128 GB,128 GB SSD,not mentioned,0.0,4.7,76990,9.0
+MSI,MSI GF63 Thin Core i7 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForc...,Intel,Core i7,10th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,4.5,72990,17.0
+HP,HP 14s Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s- DR2015TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.3,47990,5.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+HP,HP 14s Ryzen 5 Hexa Core 5500U - (8 GB/512 GB SSD/Windows 10 Home) 14s-fq1030AU Thin and Light Laptop,AMD,Ryzen 5Core 5500U,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.2,51990,7.0
+HP,HP Pavilion x360 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14-dw1036TU 2 in 1 Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.4,48990,12.0
+HP,HP 15s Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-dy3001TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.1,41490,9.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+HP,HP 15s Dual Core 3020e - (4 GB/1 TB HDD/Windows 10 Home) 15s-GY0003AU Thin and Light Laptop,AMD,Core 3020e,Ryzen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,24700,0.0
+HP,HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14-dv0054TU Thin and Light Laptop,Intel,Core i5,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,4.6,66900,7.0
+HP,HP 14s Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) 14s-cf3006TU Thin and Light Laptop,Intel,Core i3,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.8,36980,14.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X413EP-EB512...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.4,62990,21.0
+HP,HP Pavilion Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/N...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,4.6,66990,2.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X413EP-EK513...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.8,62990,21.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+ASUS,ASUS VivoBook Ultra K14 (2021) Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) K413EA-EB302TS Thi...,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,56990,0.0
+Lenovo,Lenovo ThinkPad E15 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) E15 Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.8,47990,21.0
+MSI,MSI Modern 14 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Modern 14 B10MW-425IN Laptop,Intel,Core i3,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.5,36990,31.0
+ASUS,ASUS ZenBook Pro Duo Core i7 9th Gen - (32 GB/1 TB SSD/Windows 10 Home/6 GB Graphics) UX581GV-HM7201T ...,Intel,Core i7,9th Gen,Windows 10,32,0,1 TB,1 TB SSD,not mentioned,6.0,4.8,159990,37.0
+ASUS,ASUS ROG Strix G15 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GT...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.6,71990,29.0
+Lenovo,Lenovo ThinkPad E15 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) E15 Laptop,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.2,66990,13.0
+acer,acer Aspire 3 Ryzen 3 Dual Core 3300U - (4 GB/1 TB HDD/Windows 10 Home) A315-42-R7HL Laptop,AMD,Ryzen 3Core 3300U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,4.2,29499,18.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+DELL,DELL Latitude 3400 Core i3 8th Gen - (4 GB/1 TB HDD/Windows 10 Pro) Latitude 3400 Laptop,Intel,Core i3,8th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,37490,35.0
+Lenovo,Lenovo ThinkPad E15 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) E15 Laptop,Intel,Core i3,11th Gen,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,4.3,46990,20.0
+Lenovo,Lenovo Ideapad 3 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) 15IML05 Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,2.0,4.1,50456,26.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+ASUS,ASUS Ryzen 5 Quad Core - (8 GB/1 TB HDD/Windows 10 Home) M515DA-BQ501T Thin and Light Laptop,AMD,Ryzen 5,Ryzen 5,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.8,40590,20.0
+ASUS,ASUS ROG Strix G17 Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce G...,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,6.0,5.0,101990,7.0
+ASUS,ASUS Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X509JB-EJ592T Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.2,53990,2.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+Lenovo,Lenovo ThinkPad E14 Core i3 10th Gen - (4 GB/256 GB SSD/DOS) E14 Thin and Light Laptop,Intel,Core i3,10th Gen,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,4.6,37490,30.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+Lenovo,Lenovo Ideapad 3 Ryzen 3 Dual Core 3250U - (4 GB/1 TB HDD/Windows 10 Home) 15ADA05 Laptop,AMD,Ryzen 3Core 3250U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.8,30990,9.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+ASUS,ASUS TUF Dash F15 (2021) Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeFor...,Intel,Core i7,11th Gen,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,6.0,5.0,128990,8.0
+APPLE,APPLE MacBook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MGNE3HN/A,Apple,M1,M1,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.8,114990,2.0
+ASUS,ASUS Athlon Dual Core 3050U - (4 GB/1 TB HDD/Windows 10 Home) M515DA-EJ002TS Thin and Light Laptop,AMD,Core 3050U,Ryzen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,27990,15.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+DELL,DELL Latitude 3400 Core i5 8th Gen - (8 GB/1 TB HDD/Windows 10 Pro) Latitude 3400 Laptop,Intel,Core i5,8th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.2,59990,23.0
+ASUS,ASUS ZenBook 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX425EA-BM501TS Thin and Light La...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,72990,26.0
+HP,HP 15s Core i3 11th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15s-du3038TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.1,43690,6.0
+HP,HP Pavilion x360 Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14-dh1502TU 2 in 1 Laptop,Intel,Core i3,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.0,52490,13.0
+HP,HP 15s Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15s-FQ2535TU Thin and Light Laptop,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,58490,1.0
+APPLE,APPLE MacBook Air M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MGN73HN/A,Apple,M1,M1,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.8,114990,2.0
+HP,HP Pavilion x360 Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14-dh1502TU 2 in 1 Laptop,Intel,Core i3,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.0,52490,13.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+HP,HP Ryzen 3 Quad Core 3300U - (4 GB/1 TB HDD/Windows 10 Home) G7 245 Thin and Light Laptop,AMD,Ryzen 3Core 3300U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,28990,8.0
+DELL,DELL Inspiron Core i3 11th Gen - (4 GB/512 GB SSD/Windows 10 Home) Inspiron 5406 2 in 1 Laptop,Intel,Core i3,11th Gen,Windows 10,4,0,512 GB,512 GB SSD,not mentioned,0.0,4.6,54890,13.0
+ASUS,ASUS TUF Dash F15 (2021) Core i7 11th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeFor...,Intel,Core i7,11th Gen,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,6.0,5.0,128990,8.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+ASUS,ASUS ZenBook 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX425EA-BM501TS Thin and Light La...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,72990,26.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) X413EA-EK511TS Thin and Li...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.6,59990,18.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+ASUS,ASUS VivoBook 14 Ryzen 5 Hexa Core 4500U - (8 GB/512 GB SSD/Windows 10 Home) M413IA-EK584T Thin and Li...,AMD,Ryzen 5Core 4500U,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,49990,1.0
+MSI,MSI Modern 14 Ryzen 5 Hexa Core 4500U - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B4MW-410IN Noteboo...,AMD,Ryzen 5Core 4500U,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,51990,20.0
+APPLE,APPLE MacBook Pro M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MYD82HN/A,Apple,M1,M1,Mac OS,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.8,118990,3.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+HP,HP Pavilion Laptop 15-eg Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 15-eg0103...,Intel,Core i5,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,2.0,4.5,72990,8.0
+MSI,MSI Modern 14 Core i7 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B11MO-092IN Thin and Ligh...,Intel,Core i7,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,60990,26.0
+HP,HP 14s Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 14s-dy2500TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.2,41490,4.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+ASUS,ASUS TUF Gaming F15 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce G...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.8,69576,22.0
+APPLE,APPLE MacBook Pro with Touch Bar Core i5 8th Gen - (8 GB/256 GB SSD/Mac OS Catalina) MXK32HN/A,Intel,Core i5,8th Gen,Mac OS,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.6,98990,16.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.0,42990,31.0
+Lenovo,Lenovo ThinkPad E14 Core i7 10th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home) E14 Thin and Light L...,Intel,Core i7,10th Gen,Windows 10,8,1 TB,128 GB,1 TB HDD 128 GB SSD,not mentioned,0.0,4.8,79990,20.0
+HP,HP Pavilion x360 Core i3 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14-dh1178TU 2 in 1 Laptop,Intel,Core i3,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,51490,13.0
+Lenovo,Lenovo Ideapad S145 Ryzen 3 Dual Core 3200U - (4 GB/1 TB HDD/Windows 10 Home) S145-15API Laptop,AMD,Ryzen 3Core 3200U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,29990,13.0
+ASUS,ASUS ROG Strix G15 Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce G...,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,4.0,0.0,86990,0.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+Lenovo,Lenovo Yoga C640 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) C640-13IML 2 in 1 Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.8,75990,34.0
+HP,HP 14s Ryzen 5 Quad Core 3500U 3rd Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 14s-dk0093AU Thin ...,AMD,Ryzen 5Core 3500U,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.5,47990,9.0
+DELL,DELL G7 Core i9 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2070/300 H...,Intel,Core i9,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,8.0,5.0,179990,20.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+APPLE,APPLE MacBook Air Core i5 10th Gen - (8 GB/512 GB SSD/Mac OS Catalina) MVH52HN/A,Intel,Core i5,10th Gen,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,99990,18.0
+ASUS,ASUS VivoBook Flip 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) TP470EZ-EC033...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,4.0,3.8,73990,12.0
+APPLE,APPLE MacBook Pro Core i7 9th Gen - (16 GB/512 GB SSD/Mac OS Catalina/4 GB Graphics) MVVL2HN/A,Intel,Core i7,9th Gen,Mac OS,16,0,512 GB,512 GB SSD,not mentioned,4.0,4.4,199900,0.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+APPLE,APPLE MacBook Air Core i5 10th Gen - (8 GB/512 GB SSD/Mac OS Catalina) MVH42HN/A,Intel,Core i5,10th Gen,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,99990,18.0
+DELL,DELL Inspiron Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) INS 5408 Thin and Lig...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.4,62990,14.0
+HP,HP Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 15s-FR2006TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.3,44980,8.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+Lenovo,Lenovo Ideapad S145 Ryzen 5 Quad Core 3500U - (4 GB/1 TB HDD/Windows 10 Home) S145-15API Laptop,AMD,Ryzen 5Core 3500U,Ryzen 5,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.7,38490,23.0
+ASUS,ASUS VivoBook S S13 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) S333EA-EG501TS Thin and Light...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,56990,12.0
+DELL,DELL Inspiron Core i5 11th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10/2 GB Graphics) INSPIRON 3501 Not...,Intel,Core i5,11th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,2.0,0.0,68409,0.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+APPLE,APPLE MacBook Pro Core i7 9th Gen - (16 GB/512 GB SSD/Mac OS Catalina/4 GB Graphics) MVVJ2HN/A,Intel,Core i7,9th Gen,Mac OS,16,0,512 GB,512 GB SSD,not mentioned,4.0,4.7,195843,2.0
+ALIENWARE,ALIENWARE Core i7 9th Gen - (16 GB/1 TB HDD/1 TB SSD/Windows 10 Home/8 GB Graphics) Area-51m Laptop,Intel,Core i7,9th Gen,Windows 10,16,1 TB,1 TB,1 TB HDD 1 TB SSD,not mentioned,8.0,0.0,209990,35.0
+ASUS,ASUS ZenBook Duo Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) UX481FL-HJ551TS Th...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,0.0,86990,22.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+APPLE,APPLE MacBook Pro Core i9 9th Gen - (16 GB/1 TB SSD/Mac OS Catalina/4 GB Graphics) MVVM2HN/A,Intel,Core i9,9th Gen,Mac OS,16,0,1 TB,1 TB SSD,not mentioned,4.0,4.2,224990,6.0
+Lenovo,Lenovo Ideapad 3 Ryzen 3 Dual Core 3250U - (4 GB/1 TB HDD/Windows 10 Home) 15ADA05 Laptop,AMD,Ryzen 3Core 3250U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.7,30990,16.0
+acer,acer One 14 Pentium Gold - (4 GB/1 TB HDD/Windows 10 Home) Z2-485 Thin and Light Laptop,Intel,Pentium,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,4.0,23990,36.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+APPLE,APPLE MacBook Pro M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MYDC2HN/A,Apple,M1,M1,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.8,139990,2.0
+ASUS,ASUS ROG Strix G15 (2020) Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFo...,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,4.0,5.0,92990,20.0
+HP,HP Core i5 11th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) 15s-FQ2071TU Thin and Light Lap...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,55490,6.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+ASUS,ASUS ROG Strix G15 Ryzen 5 Hexa Core 5600H - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA Ge...,AMD,Ryzen 5Core 5600H,Ryzen 5,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,4.0,5.0,92990,16.0
+HP,HP Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 15s-FQ2075TU Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.3,42890,4.0
+MSI,MSI GF65 Thin Core i5 9th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce GTX 166...,Intel,Core i5,9th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,6.0,4.6,71990,28.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+Lenovo,Lenovo IdeaPad Gaming 3 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVI...,Intel,Core i5,10th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,64990,6.0
+HP,HP 15s Ryzen 3 Dual Core 3250U - (4 GB/1 TB HDD/Windows 10 Home) 15s-GR0006AU Thin and Light Laptop,AMD,Ryzen 3Core 3250U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,33990,1.0
+HP,HP G Series Core i3 10th Gen - (4 GB/512 GB SSD/Windows 10 Home) 250 G8 Thin and Light Laptop,Intel,Core i3,10th Gen,Windows 10,4,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,39990,9.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) X413EP-EK511...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.8,62990,21.0
+ASUS,ASUS VivoBook 14 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) M413IA-EK586T Thin and Li...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,59990,13.0
+acer,acer Predator Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 3070...,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,8.0,0.0,154990,29.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+HP,HP Pavilion x360 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14-dw1038TU 2 in 1 Laptop,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,70990,6.0
+DELL,DELL Vostro 3405 Ryzen 5 Quad Core 3450U - (8 GB/256 GB SSD/Windows 10 Home) Vostro 3405 Thin and Ligh...,AMD,Ryzen 5Core 3450U,Ryzen 5,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.2,42890,5.0
+ASUS,ASUS ROG Flow X13 Ryzen 7 Octa Core 5800HS - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFo...,AMD,Ryzen 7Core 5800HS,Ryzen 7,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,4.0,5.0,124990,23.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+ASUS,ASUS ROG Strix Scar 17 Core i9 10th Gen - (32 GB/2 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce...,Intel,Core i9,10th Gen,Windows 10,32,0,2 TB,2 TB SSD,NVIDIA,8.0,0.0,269990,9.0
+acer,acer Aspire 7 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 165...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,0.0,59990,33.0
+HP,HP Spectre x360 Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Pro) 13-aw0205tu 2 in 1 Laptop,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,3.3,162990,15.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+Lenovo,Lenovo Ideapad Flex 5 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) 5 14ITL05 2 in 1 Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.5,52990,23.0
+APPLE,APPLE MacBook Pro with Touch Bar Core i5 10th Gen - (16 GB/512 GB SSD/Mac OS Catalina) MWP72HN/A,Intel,Core i5,10th Gen,Mac OS,16,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,169990,2.0
+DELL,DELL Inspiron Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) Inspiron 14-5406-14 2 in 1 Laptop,Intel,Core i3,11th Gen,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,3.5,51490,5.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+ASUS,ASUS Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) X515EA-EJ312TS Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.2,41590,7.0
+Lenovo,lenovo Yoga 7 Core i7 11th Gen Intel EVO - (16 GB/512 GB SSD/Windows 10 Home) 14ITL5 2 in 1 Laptop,Intel,Core i7,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,4.9,97990,29.0
+DELL,DELL G5 15 SE Ryzen 5 Hexa Core 4600H - (8 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/AMD Radeon RX 5...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,AMD Radeon RX 5...,6.0,4.4,75990,6.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+HP,HP 15 Ryzen 3 Dual Core 3200U - (4 GB/1 TB HDD/Windows 10 Home) 15-db 1059AU Laptop,AMD,Ryzen 3Core 3200U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,4.0,31490,5.0
+acer,acer Travelmate P2 Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) P215-53 Laptop,Intel,Core i5,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,54990,27.0
+Lenovo,Lenovo Ideapad Flex 5 Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) 14IIL05 2 in 1 Laptop,Intel,Core i3,10th Gen,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,4.4,49949,23.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+acer,acer Swift 5 Core i7 11th Gen Intel EVO - (16 GB/1 TB SSD/Windows 10 Home) SF514-55TA-72VG Thin and Li...,Intel,Core i7,11th Gen,Windows 10,16,0,1 TB,1 TB SSD,not mentioned,0.0,4.6,97999,21.0
+acer,acer Aspire 5 Core i3 10th Gen - (4 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) A514-53-316M Thin an...,Intel,Core i3,10th Gen,Windows 10,4,0,512 GB,512 GB SSD,not mentioned,0.0,4.3,39999,28.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) X413EA-EB511TS Thin and Li...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,59990,18.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) X413EA-EB513TS Thin and Li...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,59990,18.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 10th Gen - (8 GB/1 TB SSD/Windows 10 Home) X413JA-EK277TS Thin and Ligh...,Intel,Core i5,10th Gen,Windows 10,8,0,1 TB,1 TB SSD,not mentioned,0.0,4.5,58990,0.0
+ASUS,ASUS ROG Flow X13 Ryzen 9 Octa Core 5900HS - (32 GB/1 TB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFo...,AMD,Ryzen 9Core 5900HS,Ryzen 9,Windows 10,32,0,1 TB,1 TB SSD,NVIDIA,4.0,3.3,154990,20.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+MSI,MSI GF63 Thin Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650...,Intel,Core i5,9th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.5,54990,42.0
+MSI,MSI Modern 14 Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Modern 14 A10RAS-1069...,Intel,Core i7,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.9,79990,5.0
+LG,LG Gram 15 Core i5 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Gram 15Z90N Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.7,72990,29.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+DELL,DELL Latitude 5300 Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Pro) Latitude 5300 Laptop,Intel,Core i5,8th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,3.6,59990,19.0
+APPLE,APPLE MacBook Air Core i3 10th Gen - (8 GB/256 GB SSD/Mac OS Catalina) MWTL2HN/A,Intel,Core i3,10th Gen,Mac OS,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.6,83990,9.0
+DELL,DELL Inspiron 3505 Ryzen 7 Quad Core 3700U - (8 GB/512 GB SSD/Windows 10 Home) Inspiron 3505 Laptop,AMD,Ryzen 7Core 3700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,60990,4.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+MICROSOFT,MICROSOFT Surface Pro 7 Core i5 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) 1866 2 in 1 Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.3,99990,17.0
+ASUS,ASUS VivoBook Flip 14 Core i3 10th Gen - (4 GB/512 GB SSD/Windows 10 Home) TP412FA-EC372TS 2 in 1 Lapt...,Intel,Core i3,10th Gen,Windows 10,4,0,512 GB,512 GB SSD,not mentioned,0.0,4.3,50450,15.0
+APPLE,APPLE MacBook Pro M1 - (8 GB/512 GB SSD/Mac OS Big Sur) MYD92HN/A,Apple,M1,M1,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.8,139990,2.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+Lenovo,Lenovo Ideapad Slim 5i Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL05 Thin and Light Lap...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,58990,30.0
+ASUS,ASUS VivoBook Ultra 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) X413EA-EB513TS Thin and Li...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,59990,18.0
+ASUS,ASUS ZenBook 14 Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) UX425EA-BM701TS Thin and Light L...,Intel,Core i7,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,95990,19.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+HP,HP Pavilion Core i5 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) 14-dv0053TU Thin and Light Laptop,Intel,Core i5,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,68990,4.0
+DELL,DELL XPS 13 Core i7 8th Gen - (16 GB/512 GB SSD/Windows 10 Home) 9370 Thin and Light Laptop,Intel,Core i7,8th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,114990,17.0
+LG,LG Gram 14 Core i5 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Gram 14Z90N Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.5,62990,36.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+HP,HP 14s Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 14S-ER0003TU Thin and Light Lapto...,Intel,Core i5,10th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.4,65999,7.0
+MSI,MSI GF63 Thin Core i7 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1650...,Intel,Core i7,9th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.5,66990,36.0
+acer,acer ConceptD 5 Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) CN515-51 Thin and Li...,Intel,Core i5,8th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,4.0,0.0,99500,17.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+ASUS,ASUS ExpertBook P1 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Pro) ExpertBook P1 P1440FA Thin and Li...,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,0.0,62699,11.0
+ASUS,ASUS Core i5 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) X515JA-EJ502TS Thin and Light Laptop,Intel,Core i5,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,0.0,46590,19.0
+Lenovo,Lenovo Ideapad Slim 3i Core i3 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) 15IIL05 Laptop,Intel,Core i3,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.7,34990,20.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+ASUS,ASUS ZenBook 14 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) UX435EG-AI501TS Thi...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,0.0,99990,9.0
+Lenovo,Lenovo Ryzen 3 Dual Core 3250U - (4 GB/1 TB HDD/DOS) 82C6000KIH Notebook,AMD,Ryzen 3Core 3250U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.8,26990,25.0
+ASUS,ASUS VivoBook S S14 Core i5 11th Gen - (8 GB + 32 GB Optane/512 GB SSD/Windows 10 Home) S433EA-AM501TS...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,5.0,62990,23.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+ASUS,ASUS VivoBook Ultra 14 Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) X413EA-EK302TS Thin and Li...,Intel,Core i3,11th Gen,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,4.4,44990,10.0
+ASUS,ASUS ZenBook Classic Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX333FA-A5822TS Thin and Lig...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,64990,34.0
+MSI,MSI GF65 Thin Core i5 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce GTX 16...,Intel,Core i5,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,6.0,4.8,74990,25.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+Lenovo,Lenovo Ideapad 3 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) 15IIL05 Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.0,49980,22.0
+DELL,DELL Inspiron Core i5 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10 Home) Inspiron 3501 Laptop,Intel,Core i5,11th Gen,Windows 10,4,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.2,56949,0.0
+HP,HP Envy Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/6 GB Graphics) 15-ep0123TX Laptop,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,not mentioned,6.0,4.2,143990,16.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+MICROSOFT,MICROSOFT Surface Laptop 3 Ryzen 5 Quad Core 3580U - (8 GB/128 GB SSD/Windows 10 Home) 1873 Laptop,AMD,Ryzen 5Core 3580U,Ryzen 5,Windows 10,8,0,128 GB,128 GB SSD,not mentioned,0.0,4.7,99990,20.0
+DELL,DELL XPS Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/4 GB Graphics) XPS 9500 Laptop,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,4.0,0.0,202740,8.0
+ALIENWARE,ALIENWARE Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2070) m1...,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,8.0,4.0,243990,16.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+MSI,MSI GF65 Thin Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 20...,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,6.0,4.6,99990,2.0
+APPLE,APPLE MacBook Pro with Touch Bar Core i5 10th Gen - (16 GB/1 TB SSD/Mac OS Catalina) MWP82HN/A,Intel,Core i5,10th Gen,Mac OS,16,0,1 TB,1 TB SSD,not mentioned,0.0,4.7,174900,0.0
+DELL,DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Inspiron 7400 Thin an...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,0.0,95825,8.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+ASUS,ASUS Ryzen 5 Quad Core 3500U - (8 GB/1 TB HDD/Windows 10 Home) M515DA-BQ502TS Thin and Light Laptop,AMD,Ryzen 5Core 3500U,Ryzen 5,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.8,41990,20.0
+ASUS,ASUS Core i7 10th Gen - (32 GB/1 TB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 2060) UX581LV...,Intel,Core i7,10th Gen,Windows 10,32,0,1 TB,1 TB SSD,NVIDIA,6.0,0.0,224990,17.0
+DELL,DELL Inspiron Core i5 11th Gen - (4 GB/1 TB HDD/256 GB SSD/Windows 10) Inspiron 3501 Notebook,Intel,Core i5,11th Gen,Windows 10,4,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,0.0,56899,2.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+ALIENWARE,ALIENWARE Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 2070) m1...,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,NVIDIA,8.0,4.0,243990,16.0
+MSI,MSI GF65 Thin Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RTX 20...,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,6.0,4.6,99990,2.0
+Lenovo,Lenovo Ideapad 720S Core i5 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) 720S-13IKB Thin and Light Lapt...,Intel,Core i5,8th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,74990,10.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+APPLE,APPLE MacBook Air Core i5 10th Gen - (8 GB/512 GB SSD/Mac OS Catalina) MVH22HN/A,Intel,Core i5,10th Gen,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,109990,10.0
+ASUS,ASUS vivobook Flip 14 Core i3 11th Gen - (8 GB/256 GB SSD/Windows 10 Home) TP470EA-EC301TS 2 in 1 Lapt...,Intel,Core i3,11th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.1,49990,23.0
+ASUS,ASUS Ryzen 5 Quad Core - (4 GB/256 GB SSD/Windows 10 Home) M515DA-BQ522TS Thin and Light Laptop,AMD,Ryzen 5,Ryzen 5,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,0.0,41790,18.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+Nokia,Nokia PureBook X14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) NKi510UL85S Thin and Light Lap...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,57990,35.0
+Lenovo,Lenovo ThinkPad x390 Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Pro) ThinkPad X390 Thin and Light ...,Intel,Core i7,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,129803,16.0
+Lenovo,Lenovo Legion 5 Core i5 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFo...,Intel,Core i5,10th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,4.4,72990,35.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+HP,HP Core i7 10th Gen - (16 GB + 32 GB Optane/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce RT...,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,6.0,0.0,134999,3.0
+MSI,MSI GE66 Raider Core i7 10th Gen - (32 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 20...,Intel,Core i7,10th Gen,Windows 10,32,0,1 TB,1 TB SSD,NVIDIA,8.0,5.0,194990,4.0
+ASUS,ASUS VivoBook Flip 14 Core i3 10th Gen - (4 GB/512 GB SSD/Windows 10 Home) TP412FA-EC371TS 2 in 1 Lapt...,Intel,Core i3,10th Gen,Windows 10,4,0,512 GB,512 GB SSD,not mentioned,0.0,4.3,46990,24.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+acer,acer Predator Helios 300 Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/N...,Intel,Core i7,10th Gen,Windows 10,16,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,6.0,4.6,116990,22.0
+APPLE,APPLE MacBook Pro with Touch Bar Core i5 10th Gen - (16 GB/1 TB SSD/Mac OS Catalina) MWP82HN/A,Intel,Core i5,10th Gen,Mac OS,16,0,1 TB,1 TB SSD,not mentioned,0.0,4.7,174900,0.0
+Lenovo,Lenovo Ideapad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graph...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.4,69990,28.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+DELL,DELL XPS 7390 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) XPS 7390 Thin and Light Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,103008,10.0
+HP,HP Pavilion Gaming Ryzen 5 Quad Core 3550H - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics/NVIDIA GeFor...,AMD,Ryzen 5Core 3550H,Ryzen 5,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,4.0,4.1,54990,12.0
+Lenovo,Lenovo Ideapad 3 Core i5 10th Gen - (4 GB/1 TB HDD/Windows 10 Home) 15IIL05 Laptop,Intel,Core i5,10th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.6,45790,25.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+DELL,DELL Inspiron Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home) Inspiron 7391 Thin and Light Lapto...,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,121223,0.0
+ASUS,ASUS ExpertBook B9 Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home) ExpertBook B9 B9450FA Thin and ...,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,not mentioned,0.0,5.0,154990,10.0
+Lenovo,Lenovo Ideapad Gaming 3 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeFor...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,0.0,68299,38.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+ASUS,ASUS ROG Strix Edition Core i7 7th Gen - (16 GB/1 TB HDD/128 GB SSD/Windows 10 Home/6 GB Graphics/NVID...,Intel,Core i7,7th Gen,Windows 10,16,1 TB,128 GB,1 TB HDD 128 GB SSD,NVIDIA,6.0,5.0,139990,0.0
+ASUS,ASUS Ryzen 5 Quad Core - (4 GB/512 GB SSD/Windows 10 Home) M515DA-BQ511T Thin and Light Laptop,AMD,Ryzen 5,Ryzen 5,Windows 10,4,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,43890,20.0
+APPLE,APPLE MacBook Air Core i5 10th Gen - (8 GB/256 GB SSD/Mac OS Catalina) Z0YJ001KD,Intel,Core i5,10th Gen,Mac OS,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.5,92990,9.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+HP,HP 14s Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14s-DR1010TU Thin and Light Laptop,Intel,Core i7,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.6,72990,9.0
+Lenovo,Lenovo Yoga Slim 7 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) 14IIL05 Thin and...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.1,74990,33.0
+DELL,DELL Inspiron Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Inspiron 5409 Thin an...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,4.3,65471,1.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+DELL,DELL Inspiron Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10) INSPIRON 3505 Notebook,AMD,Ryzen 5Core 3500U,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,55371,10.0
+ASUS,ASUS VivoBook 15 Core i3 7th Gen - (4 GB/1 TB HDD/Windows 10 Home) X543UA-DM341T Laptop,Intel,Core i3,7th Gen,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,4.0,30990,20.0
+acer,acer Predator Helios 300 Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/6 GB Graphics/N...,Intel,Core i7,10th Gen,Windows 10,16,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,6.0,4.6,126500,15.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+MSI,MSI Modern 14 Core i3 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) Modern 14 B10MW-426IN Laptop,Intel,Core i3,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.5,39990,25.0
+ASUS,ASUS VivoBook Gaming (2020) Core i7 10th Gen - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphics...,Intel,Core i7,10th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,4.0,4.3,69990,30.0
+Lenovo,Lenovo Ideapad Flex 5 Core i3 10th Gen - (4 GB/256 GB SSD/Windows 10 Home) 14IIL05 2 in 1 Laptop,Intel,Core i3,10th Gen,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,4.4,51990,19.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+Lenovo,Lenovo B50-70 Notebook (4th Gen Ci5/ 8GB/ 1TB/ Win8/ 2GB Graph) (59-427747),Intel,Core i5,4th Gen,Windows 8,8,1 TB,0,1 TB HDD,not mentioned,2.0,3.8,52490,0.0
+Avita,Avita Cosmos 2 in 1 Celeron Dual Core - (4 GB/64 GB EMMC Storage/Windows 10 Home) NS12T5IN025P 2 in 1 ...,Intel,Celeron,10th Gen,Windows 10,4,0,0,64 GB,not mentioned,0.0,4.6,17990,23.0
+MSI,MSI GS Core i7 8th Gen - (16 GB/512 GB SSD/Windows 10 Home/6 GB Graphics/NVIDIA GeForce GTX 1060) GS65...,Intel,Core i7,8th Gen,Windows 10,16,0,512 GB,512 GB SSD,NVIDIA,6.0,4.1,149990,11.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+MSI,MSI Prestige 14 Core i7 10th Gen - (16 GB/512 GB SSD/Windows 10 Home/2 GB Graphics) Prestige 14 A10RAS...,Intel,Core i7,10th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,2.0,4.1,99990,19.0
+Lenovo,Lenovo Legion 5 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce GTX 1...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.4,71990,35.0
+ASUS,ASUS ROG Zephyrus S Core i7 9th Gen - (24 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX...,Intel,Core i7,9th Gen,Windows 10,24,0,1 TB,1 TB SSD,NVIDIA,8.0,0.0,169990,47.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+Lenovo,lenovo Ideapad Slim 5i Core i5 11th Gen Intel EVO - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home) 15ITL05...,Intel,Core i5,11th Gen,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,4.4,60990,23.0
+Lenovo,Lenovo Ideapad S145 Ryzen 5 Quad Core 3500U - (8 GB/1 TB HDD/Windows 10 Home) S145-15API Laptop,AMD,Ryzen 5Core 3500U,Ryzen 5,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,4.2,44999,15.0
+ASUS,ASUS Core i3 11th Gen - (4 GB/256 GB SSD/Windows 10 Home) K513EA-BQ303TS Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,0.0,44590,18.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+ASUS,ASUS ZenBook Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) UX430UA-GV307T Thin and Light Laptop,Intel,Core i5,8th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.2,54990,1.0
+ASUS,ASUS ROG Zephyrus S15 Core i7 10th Gen - (32 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce ...,Intel,Core i7,10th Gen,Windows 10,32,0,1 TB,1 TB SSD,NVIDIA,8.0,0.0,199989,38.0
+DELL,DELL Vostro Ryzen 3 Dual Core 3250U - (4 GB/1 TB HDD/Windows 10 Home) Vostro 3405 Thin and Light Lapto...,AMD,Ryzen 3Core 3250U,Ryzen 3,Windows 10,4,1 TB,0,1 TB HDD,not mentioned,0.0,3.8,31490,13.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+MSI,MSI Modern 14 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Modern 14 B10MW-423IN Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,49990,12.0
+ASUS,ASUS VivoBook Flip 14 Ryzen 3 Quad Core 4300U - (4 GB/256 GB SSD/Windows 10 Home) TM420IA-EC096TS 2 in...,AMD,Ryzen 3Core 4300U,Ryzen 3,Windows 10,4,0,256 GB,256 GB SSD,not mentioned,0.0,4.8,50590,19.0
+HP,HP Spectre x360 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) 13-aw0204TU 2 in 1 Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,99990,14.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+MSI,MSI Prestige 14 EVO Core i7 11th Gen - (16 GB/512 GB SSD/Windows 10 Home) Prestige 14 Evo A11M-463IN T...,Intel,Core i7,11th Gen,Windows 10,16,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,94990,9.0
+DELL,DELL Inspiron Core i7 10th Gen - (8 GB/512 GB SSD/Windows 10 Home) Inspiron 7391 2 in 1 Laptop,Intel,Core i7,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,109729,8.0
+ASUS,ASUS ExpertBook P2 Core i5 10th Gen - (8 GB/1 TB HDD/DOS/2 GB Graphics) ExpertBook P2 P2451FB Thin and...,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,2.0,0.0,69290,11.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
+ASUS,ASUS ExpertBook B9 Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Home) ExpertBook B9 B9450FA Thin and ...,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,not mentioned,0.0,5.0,154990,10.0
+ASUS,ASUS ROG Zephyrus S Core i7 9th Gen - (24 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX...,Intel,Core i7,9th Gen,Windows 10,24,0,1 TB,1 TB SSD,NVIDIA,8.0,0.0,169990,47.0
+Avita,Avita Liber Core i5 10th Gen - (8 GB/256 GB SSD/Windows 10 Home) NS14A8INF542-CS Thin and Light Laptop,Intel,Core i5,10th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.0,40890,22.0
+Lenovo,Lenovo IdeaPad Gaming Ryzen 5 Hexa Core 4600H - (8 GB/1 TB HDD/256 GB SSD/Windows 10 Home/4 GB Graphic...,AMD,Ryzen 5Core 4600H,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,63990,26.0
+ASUS,ASUS ExpertBook P2 Core i5 10th Gen - (8 GB/512 GB SSD/Windows 10 Pro/2 GB Graphics) ExpertBook P2 P24...,Intel,Core i5,10th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,2.0,0.0,86990,0.0
+APPLE,APPLE MacBook Pro with Touch Bar Core i5 8th Gen - (8 GB/512 GB SSD/Mac OS Catalina) MXK72HN/A,Intel,Core i5,8th Gen,Mac OS,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.6,132990,6.0
+LG,LG Gram Core i5 8th Gen - (8 GB/256 GB SSD/Windows 10 Home) Gram 15Z990 Thin and Light Laptop,Intel,Core i5,8th Gen,Windows 10,8,0,256 GB,256 GB SSD,not mentioned,0.0,4.8,69990,28.0
+Lenovo,Lenovo Ideapad S145 Core i5 10th Gen - (8 GB/1 TB HDD/Windows 10 Home) S145-15IIL Laptop,Intel,Core i5,10th Gen,Windows 10,8,1 TB,0,1 TB HDD,not mentioned,0.0,3.9,42990,35.0
+MSI,MSI WF65 Core i7 10th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Pro/4 GB Graphics/NVIDIA Quadro T100...,Intel,Core i7,10th Gen,Windows 10,16,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,4.0,0.0,159990,11.0
+ASUS,ASUS ZenBook Flip 13 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX363EA-HP501TS 2 in 1 Lapto...,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,94990,14.0
+MSI,MSI GL Core i7 7th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA GeForce 1050Ti...,Intel,Core i7,7th Gen,Windows 10,8,1 TB,128 GB,1 TB HDD 128 GB SSD,NVIDIA,4.0,0.0,99990,0.0
+Lenovo,Lenovo Core i5 9th Gen - (8 GB/1 TB HDD/Windows 10 Home/3 GB Graphics/NVIDIA GeForce GTX 1050) L340-15...,Intel,Core i5,9th Gen,Windows 10,8,1 TB,0,1 TB HDD,NVIDIA,3.0,4.1,49990,28.0
+DELL,DELL XPS Core i5 11th Gen Intel EVO - (8 GB/512 GB SSD/Windows 10 Home) XPS 9310 Thin and Light Laptop,Intel,Core i5,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,152149,2.0
+DELL,DELL Ryzen 5 Dual Core - (8 GB/1 TB HDD/256 GB SSD/Windows 10) 3505 Laptop,AMD,Ryzen 5,Ryzen 5,Windows 10,8,1 TB,256 GB,1 TB HDD 256 GB SSD,not mentioned,0.0,0.0,49990,0.0
+ASUS,ASUS ZenBook Pro 15 Core i9 8th Gen - (16 GB/1 TB SSD/Windows 10 Home/4 GB Graphics) UX580GE-E2032T La...,Intel,Core i9,8th Gen,Windows 10,16,0,1 TB,1 TB SSD,not mentioned,4.0,5.0,204990,2.0
+Lenovo,Lenovo Ideapad 5 Ryzen 7 Octa Core 4700U - (8 GB/512 GB SSD/Windows 10 Home) 14ARE05 Thin and Light La...,AMD,Ryzen 7Core 4700U,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.4,57990,4.0
+MSI,MSI Core i7 7th Gen - (16 GB/1 TB HDD/256 GB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce GTX 1070...,Intel,Core i7,7th Gen,Windows 10,16,1 TB,256 GB,1 TB HDD 256 GB SSD,NVIDIA,8.0,4.2,185990,0.0
+ASUS,ASUS ZenBook 14 Core i7 8th Gen - (8 GB/512 GB SSD/Windows 10 Home) UX433FA-A6111T Thin and Light Lapt...,Intel,Core i7,8th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.5,85990,14.0
+ASUS,ASUS ExpertBook B9 Core i7 10th Gen - (16 GB/1 TB SSD/Windows 10 Pro) ExpertBook B9 B9450FA Thin and L...,Intel,Core i7,10th Gen,Windows 10,16,0,1 TB,1 TB SSD,not mentioned,0.0,0.0,167990,17.0
+Lenovo,Lenovo IdeaPad Gaming 3 Ryzen 7 Octa Core 4800H - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDI...,AMD,Ryzen 7Core 4800H,Ryzen 7,Windows 10,8,0,512 GB,512 GB SSD,NVIDIA,4.0,4.0,67990,24.0
+Avita,Avita Pura Ryzen 5 Quad Core 3500U - (8 GB/512 GB SSD/Windows 10 Home in S Mode) NS14A6INV561-PDGYB Th...,AMD,Ryzen 5Core 3500U,Ryzen 5,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,4.2,30792,41.0
+HP,HP 15 Core i7 8th Gen - (8 GB/1 TB HDD/128 GB SSD/Windows 10 Home/4 GB Graphics) 15-dc0082TX Laptop,Intel,Core i7,8th Gen,Windows 10,8,1 TB,128 GB,1 TB HDD 128 GB SSD,not mentioned,4.0,0.0,116941,0.0
+MSI,MSI Creator 17 Core i7 10th Gen - (32 GB/1 TB SSD/Windows 10 Home/8 GB Graphics/NVIDIA GeForce RTX 207...,Intel,Core i7,10th Gen,Windows 10,32,0,1 TB,1 TB SSD,NVIDIA,8.0,0.0,264990,15.0
+Lenovo,Lenovo IdeaPad Core i3 11th Gen - (8 GB/512 GB SSD/Windows 10 Home) 14ITL6 Thin and Light Laptop,Intel,Core i3,11th Gen,Windows 10,8,0,512 GB,512 GB SSD,not mentioned,0.0,0.0,61790,0.0
